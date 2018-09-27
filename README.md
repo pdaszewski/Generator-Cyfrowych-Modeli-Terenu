@@ -1,9 +1,7 @@
-# Generator-Cyfrowych-Modeli-Terenu
-Studencki projekt generowania cyfrowych modeli terenu z wykorzystaniem OpenGL
+Student project of generating digital terrain models using OpenGL
 
-Aplikacja napisana jeszcze w Delphi 7 - pozwala na przygotowanie cyfrowego modelu terenu na podstawie skanu mapy fizycznej.
-W skład całego projektu wchodzą 3 aplikacje do generowania modelu cyfrowego, analizy terenu już na mapie cyfrowej i aplikacji do wizualizacji 3D z wykorzystaniem OpenGL.
+Application written in Delphi 7 - allows you to prepare a digital terrain model based on a physical map scan. The entire project consists of 3 applications for generating a digital model, area analysis already on the digital map and applications for 3D visualization using OpenGL.
 
-Do przygotowania poprawnego cyfrowego modelu terenu najlepiej wykorzystać skany map fizycznych z jak najmniejszą ilością napisów, komentarzy itp. Aplikacja pozwala na skalibrowanie rozpoznawania kolorów mapy fizycznej, ale same napisy będą stanowiły problem. Przykłądowe mapy fizyczne znajdują się jako załączone pliki do projektu.
+To prepare the correct digital terrain model it is best to use physical map scans with as few subtitles, comments, etc. The application allows you to calibrate the recognition of physical map colors, but the subtitles themselves will be a problem. Exemplary physical maps can be found as attached files to the project.
 
-Więcej na: https://www.fxsystems.com.pl/generator-cyfrowych-modeli-terenu/
+More at: https://www.fxsystems.com.pl/generator-cyfrowe-modeli-terenu/
