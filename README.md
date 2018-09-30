@@ -8,4 +8,8 @@ More at: https://www.fxsystems.com.pl/generator-cyfrowe-modeli-terenu/
 
 Related to: https://github.com/pdaszewski/Generator-Cyfrowych-Modeli-Terenu-Widok-3D
 
+Screens:
+
+![alt text](https://github.com/pdaszewski/Generator-Cyfrowych-Modeli-Terenu/blob/master/GenMapCyfr001.png)
+![alt text](https://github.com/pdaszewski/Generator-Cyfrowych-Modeli-Terenu/blob/master/GenMapCyfr003.png)
 
